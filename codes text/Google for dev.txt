@@ -1,0 +1,199 @@
+Google Developers
+Products
+Events
+Learn
+Developer Communities
+Developer Profile
+Blog
+Search
+English
+
+Google is committed to advancing racial equity for Black communities. See how.
+
+
+Learn to build anything with Google
+Join the one-stop destination for self-guided coding exercises, quizzes, technical articles, and video tutorials. 
+Gain the software skills you need to develop with Google’s technology.
+
+Build anything with Google
+
+Android
+
+Google Cloud
+
+Firebase
+
+Flutter
+
+Google Assistant
+
+Maps Platform
+
+TensorFlow
+
+Web
+
+Google Ads
+
+Google Analytics
+
+Google Play
+
+YouTube
+
+
+
+Events
+Bringing developers together in-person and online. Stay in the know about upcoming events, 
+catch up on content you missed, and connect with Google experts.
+See events
+
+Community
+Connect with fellow developers and startups in your area, hear from industry experts, 
+share your skills, and learn new ones.
+Find community
+
+
+News
+
+Get started with Google On-Device ML
+Explore a new site dedicated to on-device 
+machine learning. It explains why you 
+should care about running on-device ML, 
+gives a clear overview of Google's 
+solutions and tools, and helps you to 
+quickly get started in your own apps.
+Learn more
+
+Announcing Jetpack Compose 1.0
+Discover version 1.0 of Jetpack Compose, 
+Android's modern, native UI toolkit to help 
+you build better apps faster. It's stable 
+and ready for you to adopt in production.
+Learn more
+
+What's new in multi-platform Flutter
+Flutter's 2 and 2.2 releases are major 
+milestones in the maturity and growth of 
+Flutter with multi-platform development 
+support for mobile, web, desktop, and 
+embedded devices from a single code base.
+Learn more
+
+Go 1.17 speeds up development
+Go 1.17 is now available, and it brings 
+performance enhancements, 
+improvements to modules, support for 64-
+bit architecture on Windows, and many 
+other changes. Get started by reading the 
+release post.
+Learn more
+
+
+Making ratings and reviews more helpful
+Starting in November 2021, Google Play 
+users on phones will see ratings specific to 
+their location and, in early 2022, users will 
+see ratings specific to their device. To help 
+you prepare for these changes, it’s now 
+easier to evaluate your ratings and reviews 
+in Play Console.
+Learn more
+
+What's new in Machine Learning
+Learn about the latest and greatest in 
+machine learning (ML) from Google! We
+cover what’s available to developers when 
+it comes to creating, understanding, and 
+deploying models for a variety of different 
+applications. From Responsible AI to 
+TensorFlow 2.5, mobile devices, 
+microcontrollers, and beyond.
+Learn more
+
+Get Started With Google Identity Services
+Announcing Google Identity Services, 
+Google’s new suite of identity products that 
+offers a safe and secure way for your users 
+to authenticate onto your platform, while 
+improving sign-in and sign-up rates.
+Learn more
+
+Stories from Black women in tech
+Hear the stories, journeys, and tips from 
+Black women and what it means to be 
+Black in tech.
+Learn more
+
+Find a Google developer expert
+Browse our directory of developer experts who have been recognized by Google for their depth of tech 
+knowledge and skills.
+View all developer experts
+
+
+Kaushik Gopal
+San Francisco, United States
+
+Expertise:
+Android
+
+View Profile
+Rodolfo Dias
+Berlin, Germany
+
+Expertise:
+Web Technologies
+
+View Profile
+Henry Lim
+Kuala Lumpur, Malaysia
+
+Expertise:
+Web Technologies
+
+View Profile
+Matteo Bonifazi
+Rome, Italy
+
+Expertise:
+Android
+
+View Profile
+
+
+Connect
+Blog
+Facebook
+Medium
+Twitter
+YouTube
+
+Programs
+Women Techmakers
+Google Developer Groups
+Google Developers Experts
+Accelerators
+Developer Student Clubs
+
+Developer consoles
+Google API Console
+Google Cloud Platform Console
+Google Play Console
+Firebase Console
+Actions on Google Console
+Cast SDK Developer Console
+Chrome Web Store Dashboard
+
+Google Developers
+
+Android
+Chrome
+Firebase
+Google Cloud Platform
+All products
+
+Terms
+Privacy
+Sign up for the Google Developers newsletter
+Subscribe
+English

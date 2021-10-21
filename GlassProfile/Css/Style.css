@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Main{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to top right, #65dfc9, #6cdbed);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Glass{
+    width: 60%;
+    height: 80vh;
+    background-color: #fff;
+    background: linear-gradient(to bottom right, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.3));
+    border-radius: 2rem;
+    z-index: 1;
+    backdrop-filter: blur(1rem);
+}
+
+@media screen and (max-width: 650px) {
+    .Glass{
+        width: 90%;
+    }
+}
+
+.Circle1,
+.Circle2{
+    height: 200px;
+    width: 200px;
+    background: #fff;
+    position: absolute;
+    background: linear-gradient(to bottom right, 
+    rgba(255, 255, 255, 0.7), 
+    rgba(255, 255, 255, 0.1));
+    border-radius: 10rem;
+}
+
+.Circle1{
+    top: 15px;
+    right: 10rem;
+}
+
+.Circle2{
+    bottom: 15px;
+    left: 10rem;
+}
+8

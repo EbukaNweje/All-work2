@@ -1,0 +1,154 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.Awards{
+    width: 100vw;
+    height: 30%;
+    background-color: rgb(202, 230, 241) ;
+}
+.footer{
+    width: 100vw;
+    height: 50%;
+    background-color:#293037;
+    display:flex;
+    
+    
+}
+.mail{
+    width: 100vw;
+    height: 30%;
+    margin-left: 50px;
+}
+.ending{
+    width: 100vw;
+    height: 20%;
+    background-color: #293037;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+}
+.Awards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Plaques1{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-aasl.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-moms-choice.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-national-parenting-products.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques4{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-parents-choice-gold@2x.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques5{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-smart-media.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques6{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/award-twillywig.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques7{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/common-sense-selection-2020.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques8{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/digital-education-awards-gold.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Plaques9{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-image: url(../Image/parents-picks-awards-2020.webp);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Input{
+    background-color: rgb(44, 44, 44);
+    color: white;
+    border: 1px solid #cacaca;
+    height: 20px;
+    width: 75%;
+}
+.button{
+    color: white;
+    background-color: #009fb4;
+    width: 60px;
+    border: none;
+    outline: none;
+    border: 1px solid transparent;
+    font-family: inherit;
+    font-weight: 600;
+    font-stretch: normal;
+    text-transform: uppercase;
+    width: 25%;
+}
+.footer_content{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    color: #999;
+    justify-content: space-between;
+    font-weight: 400;
+    font-family: Open Sans,Helvetica,Arial,sans-serif;
+}
+.desc{
+    margin-left: 100px;  
+}
+.end_image{
+    background-image: url(/image/tynker_small_darktm.png);
+    height: 30%;
+    width: 120px;
+    background-repeat: no-repeat;
+}
+.end_text{
+    margin-left: 20px;
+}
+.end_text1{
+    margin-left: 20px;
+    color: white;
+}

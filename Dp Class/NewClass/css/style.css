@@ -1,0 +1,80 @@
+.MainContainer{
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+}
+
+.Wrapper{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Card{
+    width: 400px;
+    height: 450px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.Card span{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
+
+.FoodCard{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+.Food_Card{
+    margin: 0px 5px;
+    width: 120px;
+    height: 80px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 350ms;
+    position: relative;
+
+}
+
+.Food_Card:hover{
+    transform: scale(0.9);
+}
+
+.Food_Card img{
+    width: 120px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.Food_Card span{
+    position: absolute;
+    bottom: 0;
+    color: white;
+    z-index: 1;
+}
+
+
+.Bg{
+    width: 120px;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.438);
+    position: absolute;
+    bottom: 0;
+    opacity: 0;
+}
+
+.Bg:hover{
+    opacity: 1;
+}

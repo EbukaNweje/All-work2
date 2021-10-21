@@ -1,0 +1,119 @@
+import React from 'react'
+import './Comp.css'
+
+function Comp() {
+    return (
+        <div className="Main_Container">
+
+            <div className="Code_Contain">CODELAB</div>
+
+            <div>My First Game Build</div>
+
+            <div className="Content_Holder">
+                <div className="Me_Contain">
+                    <div className="Me">Card</div>
+                    <div className="Me1">Me</div>
+                </div>
+                <div className="Computer_Contain">
+                    <div className="Computer">Card</div>
+                    <div className="Me1">Computer</div>
+                </div>
+                
+            </div>
+            <div>Result</div>
+        </div>
+    )
+}
+export default Comp
+
+
+
+
+
+.Main_Container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Content_Holder {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Me {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    width: 320px;
+    background-color: grey;
+}
+
+.Me1 {
+    width: 320px;
+    display: flex;
+    justify-content: center;
+}
+
+.Me_Contain {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Computer_Contain {
+    width: 350px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Computer {
+    display: flex;
+    justify-content: center;
+    height: 350px;
+    width: 320px;
+    background-color: grey;
+}
+
+.Code_Contain {
+    width: 100px;
+    animation: sam 20s steps(100, end), blink-caret 0.85s step-end infinite;
+    animation-iteration-count: infinite;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-size: 22px;
+    color: blue;
+}
+
+@keyframes sam {
+    from {
+      width: 0px;
+    }
+  }
+
+@media screen and (max-width:360px ) {
+    .Me_Contain {
+        width: 310px;
+    }
+    .Me {
+        width: 300px;
+    }
+
+    .Computer {
+        width: 300px;
+    }
+
+    .Computer_Contain {
+        width: 310px;
+    }
+
+    .Code_Contain {
+        margin-top: 20px;
+    }
+
+}

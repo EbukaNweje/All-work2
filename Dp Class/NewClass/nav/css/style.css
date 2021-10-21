@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.MainContainer{
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.Wrapper{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.Nav{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+.Logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 0px 35px;
+    background-color: white;
+    object-fit: contain;
+}
+
+.NavLink{
+    display: flex;
+    flex: 1;
+}
+
+.Link{
+    margin: 0px 10px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 350ms;
+}
+
+.Link:hover{
+    color: whitesmoke;
+    transform: scale(1.09);
+}
+
+.Account{
+    margin: 0px 35px;
+    display: flex;
+}
+
+.SignUp{
+    margin: 0px 10px;
+    width: 70px;
+    height: 35px;
+    background-color: blue;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 350ms;
+}
+
+.SignUp:hover{
+    transform: scale(1.09);
+    background-color: darkblue;
+}
+
+.SignIn{
+    margin: 0px 10px;
+    width: 70px;
+    height: 35px;
+    border: 1px solid whitesmoke;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 350ms;
+}
+
+.SignIn:hover{
+    transform: scale(1.09);
+    background-color: whitesmoke;
+    color: black;
+}
+
+
+.HeaderContainer{
+    width: 100%;
+    height: 450px;
+    background: linear-gradient(to bottom, #14008879, #ffffff );
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Left{
+    margin-left: 30px;
+    margin-top: 50px;
+    width: 50%;
+}
+
+.Left h1,h6,h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+
+.Left h1{
+    font-size: 45px;
+}
+.Left h5{
+    font-size: 18px;
+}
+.Left h6{
+    font-size: 15px;
+}
+
+.Download{
+  margin: 30px 0px;
+    width: 220px;
+    height: 35px;
+    background-color: blue;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: scale(1);
+    transition: all 350ms;
+}
+
+.Download:hover{
+    transform: scale(1.09);
+    background-color: darkblue;
+}
+
+.right{
+    margin-right: 30px;
+    /* background-color: black; */
+    width: 40%;
+    object-fit: cover;
+}
+
+.right img{
+    height: 500px;
+}
